@@ -1,4 +1,8 @@
-# This project is about React Hook. Here You will found 1. useState(), 2. useEffect(), 3. useReducer() and 4. useContext() hook example in this small project.
+# This project is about React Hook.
+
+# Here You will found 4 important hooks called
+
+1. useState(), 2. useEffect(), 3. useReducer(), 4. useContext(), 5. useRef(), 6.useImperativeHandle() hook example in this small project.
 
 # Getting Started with Create React App
 
